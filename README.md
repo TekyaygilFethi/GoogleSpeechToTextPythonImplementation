@@ -73,7 +73,7 @@ This bucket will hold you audio files which will be translated into texts. You m
 # Demo
 21. Clone the repository:
 ```bash
-git clone ...
+git clone https://github.com/UserVision/GoogleSpeechToTextPythonImplementation.git
 ```
 
 22. Create a new virtual environemnt:
